@@ -15,5 +15,5 @@ public class Distance {
       
       System.out.println("The distance between the two points is " +
               distance);
-  }    
-}
+  } // main   
+} // Distance
